@@ -33,7 +33,7 @@ W checkout repozytorium folder `docs` jest ignorowany przez Git.
 ## Dane, budżet i PDF
 
 Źródłem danych jest `items.json`, skopiowany z zapisanej listy 4 października 2026 i uzupełniony o uzgodnione zmiany.
-Koszt całej listy wynosi 15 377,88 zł, a bez rzeczy opcjonalnych 11 928,89 zł; kwoty są bez dostawy i obejmują podane szacunki.
+Koszt całej listy wynosi 15 258,36 zł, a bez rzeczy opcjonalnych 11 809,37 zł; kwoty są bez dostawy i obejmują podane szacunki.
 Otulacz i kokon należą do „Na start”.
 Budżet uwzględnia ilości i pomija pozycje wykluczone oraz archiwalne.
 Zdjęcia pobierane są z adresów sklepów i producentów, więc ich dostępność zależy od tych stron.
@@ -42,3 +42,5 @@ PDF głównej listy obejmuje wszystkie pozycje, niezależnie od filtrów, i zach
 W oknie drukowania wybierz „Zapisz jako PDF”.
 Podział na priorytety służy planowaniu zakupów; pytania dotyczące pielęgnacji i leków pozostają do konsultacji.
 Cena Neno Vita 149,99 zł wymaga kodu R2809-121026 ważnego do 12.10.2026.
+
+Aktualizacja: jeden komplet pieluszek muślinowych BIBS Sand (89 zł), dwa zestawy skarpetek Cool Club (6 par, 39,98 zł), przywrócony aspirator Katarek Plus (69,90 zł) i usunięta szczotka do ciemieniuchy.

@@ -830,7 +830,7 @@
     "category": "Ubranka i tekstylia",
     "priority": "Na start",
     "url": "https://bimbus.com.pl/sklep/pieluszki-muslinowe-2-sztuki-100-organic-cotton-sand-70-cm-x-70-cm-bibs/",
-    "description": "Dwie pieluszki 70 × 70 cm z organicznej bawełny w kolorze Sand. Zachowujemy wcześniejszy zapas sześciu sztuk, czyli trzy zestawy; cena 89 zł za zestaw.",
+    "description": "Na start jeden komplet BIBS Sand za 89 zł, czyli dwie pieluszki 70 × 70 cm z organicznej bawełny.",
     "features": [
       "100% organicznej bawełny.",
       "Dwie sztuki w zestawie; ilość na liście oznacza zestawy."
@@ -838,7 +838,7 @@
     "questions": [],
     "notes": "",
     "cents": 8900,
-    "quantity": 3,
+    "quantity": 1,
     "purchaseUnit": "zest.",
     "status": "planned",
     "consult": false,
@@ -1202,38 +1202,6 @@
     "sourceUrls": [
       "https://www.youtube.com/watch?v=ED_HTOhKrNw",
       "https://www.skapiec.pl/site/cat/2680/comp/922277639"
-    ],
-    "original": true,
-    "archived": false
-  },
-  {
-    "id": "cradle-brush",
-    "name": "Szczotka do ciemieniuchy",
-    "model": "Lullalove · zestaw dwóch szczotek",
-    "category": "Kąpiel i pielęgnacja",
-    "priority": "Na start",
-    "url": "https://www.ceneo.pl/106936114",
-    "description": "Dwie szczotki Lullalove o różnej miękkości włosia. Cena od dotyczy całego zestawu w porównywarce; wybierz ofertę sklepu przed zakupem.",
-    "features": [
-      "Dwie szczotki w zestawie."
-    ],
-    "questions": [
-      "Jak pielęgnować ciemieniuchę i której szczotki używać?"
-    ],
-    "notes": "",
-    "cents": 5140,
-    "quantity": 1,
-    "purchaseUnit": "zest.",
-    "status": "planned",
-    "consult": true,
-    "priceKind": "from",
-    "priceUrl": "",
-    "checked": "2026-10-04",
-    "availability": "",
-    "image": "https://image.ceneostatic.pl/data/products/106936114/i-lullalove-zestaw-dwoch-szczotek-dla-niemowlat.jpg",
-    "imageAlt": "Zestaw dwóch szczotek Lullalove dla niemowląt.",
-    "sourceUrls": [
-      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
     ],
     "original": true,
     "archived": false
@@ -1707,6 +1675,71 @@
     "id": "neno-vita",
     "name": "Podgrzewacz do butelek",
     "category": "Karmienie",
+    "priority": "Na start"
+  },
+  {
+    "model": "Katarek Plus",
+    "url": "https://katarek.pl/produkt/katarek-plus/",
+    "description": "Aspirator Katarek Plus podłączany do odkurzacza, z rozkręcaną komorą ułatwiającą mycie. Cena z aktualnej oferty producenta.",
+    "features": [
+      "Dwie końcówki i szczoteczka do czyszczenia."
+    ],
+    "questions": [
+      "Jak i kiedy bezpiecznie korzystać z aspiratora?"
+    ],
+    "notes": "",
+    "cents": 6990,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://katarek.pl/wp-content/uploads/2025/04/3.png",
+    "imageAlt": "Aspirator do nosa Katarek Plus z akcesoriami.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw",
+      "https://gemini.pl/katarek-plus-aspirator-do-nosa-od-urodzenia-0026573"
+    ],
+    "original": true,
+    "archived": false,
+    "id": "aspirator",
+    "name": "Aspirator do nosa",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start"
+  },
+  {
+    "model": "Cool Club · antypoślizgowe · misie · mix",
+    "url": "https://www.smyk.com/pl/pl/p/cool-club-antyposlizgowe-skarpetki-niemowlece-mix-zestaw-3-szt-iCCHB3301150-00/i8234755",
+    "description": "Dwa zestawy po trzy pary, razem sześć par na start. Cena 19,99 zł za zestaw, łącznie 39,98 zł. Skarpetki z motywem misiów i antypoślizgowymi elementami ABS.",
+    "features": [
+      "Dwa zestawy po trzy pary; ilość na liście oznacza zestawy.",
+      "65% bawełna, 27% poliester, 5% poliamid, 3% elastan.",
+      "Certyfikat Oeko-Tex Standard 100; pranie do 30°C."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 1999,
+    "quantity": 2,
+    "purchaseUnit": "zest.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "Cena 19,99 zł za zestaw ze wskazanej oferty. Budżet nie uwzględnia dodatkowej promocji na wielosztuki. Na przesłanym zrzucie wybrany jest rozmiar 13/15; dopasowanie do stópki do potwierdzenia.",
+    "image": "https://img.smyk.com/pl/pl/760x/https%3A//bin.smyk.com/pl/pl/media/product/1600/1/cool-club-antyposlizgowe-skarpetki-niemowlece-mix-zestaw-3-szt-8234757.webp",
+    "imageAlt": "Trzy pary skarpetek Cool Club z motywem misiów w odcieniach beżu i brązu.",
+    "sourceUrls": [
+      "https://www.smyk.com/pl/pl/p/cool-club-antyposlizgowe-skarpetki-niemowlece-mix-zestaw-3-szt-iCCHB3301150-00/i8234755"
+    ],
+    "original": true,
+    "archived": false,
+    "id": "baby-socks",
+    "name": "Skarpetki niemowlęce · 6 par",
+    "category": "Ubranka i tekstylia",
     "priority": "Na start"
   }
 ]

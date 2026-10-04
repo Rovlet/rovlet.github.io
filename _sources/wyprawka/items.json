@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "roan",
+    "name": "Wózek 2w1",
+    "model": "Roan IVI 2.0",
+    "category": "Spacery i podróże",
+    "priority": "Na start",
+    "url": "https://www.bobowozki.com.pl/wozki-dzieciece-p-roan-ivi-2-0-wozek-2w1",
+    "description": "Gondola i spacerówka w jednym zestawie. Żelowe koła i składanie ze spacerowym siedziskiem ułatwiają codzienne wyjścia.",
+    "features": [
+      "Od urodzenia; maksymalne obciążenie spacerówki 22 kg.",
+      "Siedzisko składa się ze stelażem w obu kierunkach wpięcia; gondola składa się na płasko.",
+      "Waga z gondolą 13,2 kg, ze spacerówką 13,4 kg.",
+      "Po złożeniu 77 × 61 × 34 cm; szerokość wózka 61 cm.",
+      "Koła bezdętkowe, żelowe."
+    ],
+    "questions": [
+      "Czy po złożeniu mieści się w naszym bagażniku?",
+      "Czy wygodnie wnosi się 13,2 kg i czy wózek mieści się w windzie?",
+      "Jaki kolor i dokładna zawartość zestawu? Fotelik do samochodu wybieramy osobno."
+    ],
+    "notes": "",
+    "cents": 299900,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "from",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "Cena od 2 999 zł. Kolor i dodatki mogą zmienić cenę.",
+    "image": "https://www.bobowozki.com.pl/img/cache/fd4f1997d13aed8959bf33048cfb53b9/2/f/2f03b83bff1fa73827bcfe71585ccd7ebb7b0481_10909kolor_Cocoa_Rose_Gold.jpg",
+    "imageAlt": "Roan IVI 2.0, przykładowy kolor Cocoa Rose Gold. Kolor nie został wybrany.",
+    "sourceUrls": [],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "myllra",
+    "name": "Łóżeczko",
+    "model": "IKEA MYLLRA · białe · 60 × 120 cm",
+    "category": "Sen",
+    "priority": "Na start",
+    "url": "https://www.ikea.com/pl/pl/p/myllra-lozeczko-z-szuflada-bialy-90483584/",
+    "description": "Łóżeczko z szufladą, regulowanym dnem i zdejmowanym bokiem. Materac oraz tekstylia są sprzedawane osobno.",
+    "features": [
+      "Powierzchnia materaca 60 × 120 cm.",
+      "Regulowane dno pozwala dostosować wysokość do rozwoju dziecka.",
+      "Jeden bok można zdjąć, gdy dziecko potrafi samodzielnie wchodzić i wychodzić.",
+      "Szuflada na zapas tekstyliów."
+    ],
+    "questions": [
+      "Jaki twardy, płaski materac 60 × 120 cm dobierzemy?",
+      "Czy łóżeczko zmieści się w naszej sypialni?"
+    ],
+    "notes": "",
+    "cents": 149900,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://www.ikea.com/jp/en/images/products/myllra-cot-with-drawer-white__0812404_pe783211_s5.jpg",
+    "imageAlt": "Białe łóżeczko IKEA MYLLRA z szufladą.",
+    "sourceUrls": [
+      "https://www.nhs.uk/best-start-in-life/baby/baby-basics/newborn-and-baby-sleeping-advice-for-parents/safe-sleep-advice-for-babies/"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "lucy",
+    "name": "Wanienka",
+    "model": "Neno Lucy",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://neno.pl/produkt/neno-lucy-wanienka-skladana-dla-dzieci/",
+    "description": "Składana wanienka z elektronicznym termometrem. Zajmuje mniej miejsca po kąpieli i łatwo ją przewieźć.",
+    "features": [
+      "Składana konstrukcja i antypoślizgowe elementy.",
+      "Wbudowany elektroniczny termometr.",
+      "Regulowana wkładka i półeczka na akcesoria.",
+      "To model Lucy; nie jest to osobny zestaw Lucy Stand ze stelażem."
+    ],
+    "questions": [
+      "Gdzie ustawimy wanienkę na stabilnej powierzchni?",
+      "Czy potrzebujemy dodatkowego stelaża? Sprawdźmy zgodność i koszt."
+    ],
+    "notes": "",
+    "cents": 26900,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://neno.pl/wp-content/uploads/2024/09/neno_pielegnacja_ps-lucy-min.png",
+    "imageAlt": "Składana wanienka Neno Lucy.",
+    "sourceUrls": [],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "maydolly",
+    "name": "Stół do przewijania",
+    "model": "Maydolly · beżowy · z materacem i szufladami",
+    "category": "Przewijanie",
+    "priority": "Na start",
+    "url": "https://www.amazon.pl/dp/B0GCH428MV",
+    "description": "Składany stół do przewijania z regulacją wysokości, kółkami z blokadą i miejscem na akcesoria. Ma już wodoodporny materac do przewijania, więc nie doliczamy osobnej maty.",
+    "features": [
+      "Wodoodporny materac do przewijania w zestawie; powierzchnia PVC łatwa do czyszczenia.",
+      "Cztery poziomy wysokości i składanie bez narzędzi według opisu oferty na zrzucie.",
+      "Obrotowe kółka 360° z hamulcami.",
+      "Kieszenie, półki, kosz, dwie szuflady i drążek na ubrania."
+    ],
+    "questions": [
+      "Jakie są dokładne wymiary, limit obciążenia i ograniczenia wieku w instrukcji?",
+      "Czy wysokość będzie wygodna i czy mamy miejsce na rozłożony stół?"
+    ],
+    "notes": "",
+    "cents": 70990,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "manual",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "709,90 zł to cena beżowego wariantu z przesłanego zrzutu ekranu. Aktualną cenę i zawartość zestawu sprawdź przed zakupem.",
+    "image": "https://www.maydollybaby.com/cdn/shop/files/71FZtsGHBAL._SL1501.jpg?v=1750919672&width=2000",
+    "imageAlt": "Beżowy przewijak Maydolly z wodoodpornym materacem, szufladami i kółkami.",
+    "sourceUrls": [],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "calor",
+    "name": "Podgrzewacz do chusteczek",
+    "model": "Neno Calor",
+    "category": "Przewijanie",
+    "priority": "Opcjonalne",
+    "url": "https://neno.pl/produkt/podgrzewacz-do-nawilzanych-chusteczek-neno-calor/",
+    "description": "Podgrzewa nawilżane chusteczki i utrzymuje ich temperaturę. Dodatek dla wygody przy przewijaniu.",
+    "features": [
+      "Trzy poziomy podgrzewania.",
+      "Panel dotykowy i antypoślizgowa podstawa.",
+      "Zasilanie z gniazdka; wymaga miejsca przy stanowisku do przewijania."
+    ],
+    "questions": [
+      "Czy wykorzystamy go na co dzień i gdzie podłączymy zasilanie?"
+    ],
+    "notes": "",
+    "cents": 19900,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://neno.pl/wp-content/uploads/2024/08/neno_calor_ps_00.png",
+    "imageAlt": "Podgrzewacz do chusteczek Neno Calor.",
+    "sourceUrls": [],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "majestic",
+    "name": "Kosz na pieluchy",
+    "model": "Magic Majestic · biały · 40 l + 15 worków",
+    "category": "Przewijanie",
+    "priority": "Opcjonalne",
+    "url": "https://gemini.pl/magic-majestic-kosz-na-zuzyte-pieluchy-bialy-40-l-worki-15-sztuk-0118377",
+    "description": "Kosz z uszczelnieniem ograniczającym zapachy. Można używać zwykłych worków, bez specjalnych wkładów.",
+    "features": [
+      "40 l; według sklepu mieści około 25 pieluszek.",
+      "Obsługa jedną ręką; 15 worków w zestawie.",
+      "Tworzywo PP, wymiary 26 × 52 cm, waga 1,7 kg."
+    ],
+    "questions": [
+      "Czy wystarczy nam zwykły zamykany kosz z częstym opróżnianiem?"
+    ],
+    "notes": "",
+    "cents": 19699,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "Gemini: ostatnie sztuki, deklarowana wysyłka w 24 h.",
+    "image": "https://static.gemini.pl/assets/produkty/0118377/min6/magic-majestic-kosz-na-zuzyte-pieluchy-bialy-40-l-worki-15-sztuk-17580143631.jpg",
+    "imageAlt": "Biały kosz Magic Majestic 40 l z pakietem worków.",
+    "sourceUrls": [],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "momcozy",
+    "name": "Laktator muszlowy",
+    "model": "Momcozy Wellness 1 · W1",
+    "category": "Karmienie",
+    "priority": "Na start",
+    "url": "https://pl.momcozy.com/products/momcozy-wellness-1-warm-massage-wearable-breast-pump-w1",
+    "description": "Bezprzewodowy laktator noszony w biustonoszu, z podgrzewaniem, masażem i sterowaniem przez aplikację.",
+    "features": [
+      "Regulacja siły ssania, ciepła i masażu w aplikacji Momcozy.",
+      "Według producenta temperatura podgrzewania ograniczona do 41°C.",
+      "Akumulator 2200 mAh; producent podaje do 10 sesji.",
+      "Cena 1 160 zł podana przez Justynę. Zakres zestawu i rozmiary lejków warto potwierdzić przed zakupem."
+    ],
+    "questions": [
+      "Czy laktator będzie potrzebny od początku i do jak częstego odciągania?",
+      "Jaki rozmiar lejka będzie odpowiedni i jak go dobrać?",
+      "Czy termin dostawy pasuje do naszego planu?"
+    ],
+    "notes": "",
+    "cents": 116000,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "manual",
+    "priceUrl": "",
+    "checked": "",
+    "availability": "Producent informuje, że zamówienia od 21.09 mają być wysyłane około połowy listopada 2026.",
+    "image": "https://pl.momcozy.com/cdn/shop/files/product_01_57b7f9ed-3402-4624-9dcf-fb08d7865e85.webp?v=1789036525&width=2400",
+    "imageAlt": "Laktator muszlowy Momcozy Wellness 1 W1.",
+    "sourceUrls": [],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "lansinoh",
+    "name": "Osłonki laktacyjne",
+    "model": "Lansinoh · 20 mm · 2 sztuki",
+    "category": "Karmienie",
+    "priority": "Na start",
+    "url": "https://allegro.pl/produkt/lansinoh-oslonki-laktacyjne-na-piersi-20-mm-2-sztuki-5c10a3f1-2837-4159-afd4-0e4602afbe18?offerId=17829356164",
+    "description": "Cienkie silikonowe osłonki do czasowego wsparcia karmienia, jeśli specjalista uzna je za potrzebne. Rozmiar 20 mm wymaga dopasowania.",
+    "features": [
+      "Dwie osłonki i etui; silikon bez BPA i BPS.",
+      "Wycięcie umożliwia kontakt skóry mamy i dziecka.",
+      "Producent zaleca konsultację ze specjalistą przed użyciem."
+    ],
+    "questions": [
+      "Czy osłonki są mi potrzebne i czy 20 mm jest właściwym rozmiarem?",
+      "Jak kontrolować skuteczne pobieranie pokarmu i zaplanować odstawienie osłonek?"
+    ],
+    "notes": "",
+    "cents": 4800,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "reference",
+    "priceUrl": "https://lansinoh.pl/products/oslonki-laktacyjne?variant=51049200746832",
+    "checked": "2026-10-04",
+    "availability": "Nie potwierdzono ceny Twojej oferty Allegro. 48 zł to cena referencyjna w sklepie producenta.",
+    "image": "https://lansinoh.pl/cdn/shop/files/oslonki20mm_1100x.png?v=1775650855",
+    "imageAlt": "Osłonki laktacyjne Lansinoh 20 mm, dwie sztuki z etui.",
+    "sourceUrls": [
+      "https://www.kingstonandrichmond.nhs.uk/patients-and-families/patient-leaflets/nipple-shield"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "mio",
+    "name": "Butelka 3w1",
+    "model": "Neno Mio · brown",
+    "category": "Karmienie",
+    "priority": "Na start",
+    "url": "https://neno.pl/produkt/mio/?attribute_kolory=brown",
+    "description": "Butelka z tworzywa PPSU z uchwytem i smoczkiem. Wariant brown z Twojego linku; dobór smoczka do noworodka trzeba sprawdzić.",
+    "features": [
+      "Butelka z PPSU; pozostałe elementy z PP i silikonu.",
+      "Smoczek z otworem krzyżakowym i uchwyt.",
+      "Na stronie wariantu pokazany jest smoczek L; nie zakładamy, że jest odpowiedni od urodzenia.",
+      "Podłączenie do butelkowych laktatorów Neno według producenta; nie oznacza zgodności z Momcozy W1."
+    ],
+    "questions": [
+      "Jaki smoczek i przepływ będą właściwe na start?",
+      "Czy butelka będzie potrzebna przy wybranym sposobie karmienia?"
+    ],
+    "notes": "",
+    "cents": 6900,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "Wariant brown: formularz powiadomienia o dostępności zamiast zakupu.",
+    "image": "https://neno.pl/wp-content/uploads/2024/08/neno_mio_brown_10.jpg",
+    "imageAlt": "Butelka Neno Mio 3w1 w kolorze brown, z uchwytami i nakładką z uszami królika.",
+    "sourceUrls": [],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "nube",
+    "name": "Leżaczek-bujaczek",
+    "model": "Neno Nube",
+    "category": "Sen",
+    "priority": "Opcjonalne",
+    "url": "https://neno.pl/produkt/neno-nube/",
+    "description": "Elektroniczny bujaczek 2w1 do krótkiego odpoczynku na jawie pod nadzorem. Nie jest miejscem do snu.",
+    "features": [
+      "Pięć poziomów bujania i 10 kołysanek.",
+      "Sterowanie pilotem i smartfonem.",
+      "Producent podaje obciążenie do 9 kg; należy przestrzegać także ograniczeń rozwojowych w instrukcji.",
+      "Zdejmowane zabawki, daszek i poduszka."
+    ],
+    "questions": [
+      "Czy potrzebujemy bujaczka, czy wystarczy bezpieczne miejsce do zabawy na podłodze?",
+      "Jeśli dziecko zaśnie, przenosimy je do płaskiego łóżeczka. Jakie ograniczenia podaje instrukcja?"
+    ],
+    "notes": "",
+    "cents": 49900,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "Producent wyświetla powiadomienie o dostępności zamiast przycisku zakupu.",
+    "image": "https://neno.pl/wp-content/uploads/2024/08/neno_lezaczki_ps_nube.webp",
+    "imageAlt": "Szary leżaczek-bujaczek Neno Nube.",
+    "sourceUrls": [
+      "https://derbyshirefamilyhealthservice.nhs.uk/our-services/0-5-years/your-babys-first-year/safe-sleep-guidelines"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "eco",
+    "name": "Krzesełko do karmienia",
+    "model": "Regulowane ECO · szare · SKLEPK4",
+    "category": "Karmienie",
+    "priority": "Na później",
+    "url": "https://sklepk4.pl/presta/strona-glowna/660-regulowane-krzeselko-do-karmienia-eco-szary.html",
+    "description": "Regulowane krzesełko z podnóżkiem i pasami. Do wykorzystania przy rozszerzaniu diety, gdy dziecko jest rozwojowo gotowe.",
+    "features": [
+      "Sześć poziomów wysokości siedziska.",
+      "Pięciopunktowe pasy.",
+      "Podnóżek regulowany w trzech pozycjach i cztery ustawienia oparcia.",
+      "Tapicerkę można zdjąć do czyszczenia."
+    ],
+    "questions": [
+      "Czy w pozycji do jedzenia dziecko ma stabilne podparcie stóp i tułowia?",
+      "Jaki minimalny wiek, limit wagi i warunki samodzielnego siedzenia podaje instrukcja?"
+    ],
+    "notes": "",
+    "cents": 24999,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://sklepk4.pl/presta/10339-large_default/regulowane-krzeselko-do-karmienia-eco-szary.jpg",
+    "imageAlt": "Szare krzesełko do karmienia ECO z tacką, drewnianymi nogami i podnóżkiem.",
+    "sourceUrls": [],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "perla",
+    "name": "Łóżko dla mamy w pokoju dziecka",
+    "model": "FUMIO SOFA PERLA",
+    "category": "Sen",
+    "priority": "Opcjonalne",
+    "url": "https://www.fumio.pl/lozko-tapicerowane-sofa-perla#variantOptions=648:2198",
+    "description": "Propozycja dodatkowego łóżka w pokoju dziecka, na którym mama będzie czasem spać. FUMIO SOFA PERLA fajnie wygląda, ale jest dość drogie, więc zakup pozostaje do przemyślenia. Dziecko ma osobne łóżeczko MYLLRA.",
+    "features": [
+      "Tapicerowany model SOFA PERLA z katalogu FUMIO.",
+      "Dokładny rozmiar, tkanina, wyposażenie i cena wybranego wariantu wymagają potwierdzenia."
+    ],
+    "questions": [
+      "Czy producent potwierdza użytkowanie przez dorosłą osobę i jakie jest maksymalne obciążenie?",
+      "Czy długość i szerokość będą wygodne dla mamy? Jaki materac wybierzemy?",
+      "Jaka jest pełna cena wariantu z linku wraz z materacem?"
+    ],
+    "notes": "",
+    "cents": 249900,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "from",
+    "priceUrl": "https://www.fumio.pl/lozka-tapicerowane-dla-dzieci",
+    "checked": "2026-10-04",
+    "availability": "2 499 zł to cena katalogowa modelu. Cena wariantu z linku nie została potwierdzona.",
+    "image": "https://www.fumio.pl/userdata/public/assets/MR/sofa_perla/lozko_sofa_do_pokoju_dziewczynki.webp",
+    "imageAlt": "Łóżko FUMIO SOFA PERLA z muszelkowym oparciem. Zdjęcie przykładowej aranżacji; tkanina i wyposażenie do potwierdzenia.",
+    "sourceUrls": [],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "amazon-us",
+    "name": "Myjka, sterylizator i suszarka do butelek",
+    "model": "Momcozy KleanPal Pro · White",
+    "category": "Karmienie",
+    "priority": "Na start",
+    "url": "https://www.amazon.com/clp/B0CWLHKQNT?lv=shuf&skipTwisterOG=2&starsLeft=1&social_share=cm_sw_r_cso_cp_apin_dp_P8RBX4EEHPBYZ3PXWD2Y&channelId=704&ref_=cm_sw_r_cso_cp_apin_dp_P8RBX4EEHPBYZ3PXWD2Y",
+    "description": "Urządzenie do automatycznego mycia, sterylizacji parowej i suszenia butelek oraz akcesoriów do karmienia. Wybrany wariant: biały.",
+    "features": [
+      "Mieści do czterech butelek wraz z drobnymi akcesoriami; części laktatora zmniejszają pojemność.",
+      "Dziewięć kombinacji trybów. Szybkie mycie trwa 19 minut, a sterylizacja i suszenie wydłużają cykl.",
+      "Sterylizacja parowa w 100°C i higieniczne przechowywanie do 72 godzin według producenta.",
+      "Odpływ przez wąż; potrzebuje miejsca przy zlewie i gniazdka.",
+      "Wymaga dedykowanych tabletek czyszczących i okresowego odkamieniania."
+    ],
+    "questions": [
+      "Czy pasują do niej butelka Neno Mio i części laktatora Momcozy W1 zgodnie z ich instrukcjami?",
+      "Czy mamy miejsce przy zlewie i ile wyniosą koszty tabletek oraz odkamieniania?",
+      "Kupujemy polski wariant czy ofertę Amazon.com? Porównajmy pełny koszt i zasilanie."
+    ],
+    "notes": "",
+    "cents": 90000,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "manual",
+    "priceUrl": "",
+    "checked": "",
+    "availability": "Justyna znalazła ofertę za 900 zł. Cena została podana 04.10.2026; link do tej oferty nie został jeszcze zapisany.",
+    "image": "https://pl.momcozy.com/cdn/shop/files/Product_01_1024_2560_3x_48134800-1548-41b3-9100-568ae1fe7862.webp?v=1780047773&width=2400",
+    "imageAlt": "Biała myjka do butelek Momcozy KleanPal Pro.",
+    "sourceUrls": [],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "babysense",
+    "name": "Niania z kamerą i monitor oddechu",
+    "model": "Babysense V35 + Babysense 8",
+    "category": "Sen",
+    "priority": "Na start",
+    "url": "https://klockidladzieci.pl/p/183743895/babysense-v35-elektroniczna-niania-z-kamera-monitor-oddechu-8",
+    "description": "Dwa niezależne urządzenia: kamerka z ekranem dla rodzica oraz Babysense 8 z sensorami pod materacem, wykrywającymi ruchy oddechowe.",
+    "features": [
+      "Niania V35: ekran 3,5 cala, powiększenie 2× i dwukierunkowa komunikacja.",
+      "Połączenie radiowe FHSS bez Wi-Fi; tryb nocny, lampka i pomiar temperatury.",
+      "Babysense 8: sensory umieszczane pod materacem, bez kontaktu z ciałem dziecka.",
+      "Według producenta alarm po 20 sekundach bez wykrytych ruchów oddechowych lub poniżej 10 na minutę.",
+      "Babysense 8 jest wyrobem medycznym; wymaga montażu i kontroli działania zgodnie z instrukcją."
+    ],
+    "questions": [
+      "Czy monitor oddechu jest potrzebny w naszej sytuacji? Omówmy to z położną lub pediatrą.",
+      "Czy wybrany materac i łóżeczko są zgodne z instrukcją? Jak wykonać test i zareagować na alarm?",
+      "Monitor nie zastępuje zasad bezpiecznego snu i nie należy traktować go jako sposobu zapobiegania SIDS."
+    ],
+    "notes": "",
+    "cents": 89900,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "reference",
+    "priceUrl": "https://babysensepolska.pl/niania-elektroniczna-babysense-v35-monitor-oddec,3,8,149",
+    "checked": "2026-10-04",
+    "availability": "Nie potwierdzono ceny w klockidladzieci.pl. 899 zł to cena referencyjna w Babysense Polska; sklep wskazuje dostępność od ręki.",
+    "image": "https://static.wixstatic.com/media/0b474b_7e2763ed3dce43f3bb552d7952ab4506~mv2.png/v1/fill/w_903%2Ch_903%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/0b474b_7e2763ed3dce43f3bb552d7952ab4506~mv2.png",
+    "imageAlt": "Zestaw Babysense V35: ekran, kamera oraz monitor oddechu Babysense 8 z sensorami.",
+    "sourceUrls": [
+      "https://www.babysense-polska.pl/niania-v35-z-monitorem-oddechu",
+      "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "carseat",
+    "name": "Fotelik samochodowy dla noworodka",
+    "model": "Używany z OLX · bez konkretnej oferty",
+    "category": "Spacery i podróże",
+    "priority": "Na start",
+    "url": "",
+    "description": "Planujemy używany fotelik z OLX za 350 zł, bez wybranej konkretnej oferty. Model dobierzemy do dziecka i naszego auta; fotelik dla noworodka montowany tyłem do kierunku jazdy.",
+    "features": [],
+    "questions": [
+      "Czy fotelik i sposób mocowania pasują do naszego samochodu?",
+      "Czy baza jest potrzebna do wybranego modelu i ile kosztuje?"
+    ],
+    "notes": "",
+    "cents": 35000,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "manual",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrls": [
+      "https://www.nhs.uk/best-start-in-life/pregnancy/preparing-for-labour-and-birth/what-to-buy-for-your-newborn-baby/"
+    ],
+    "original": false,
+    "archived": false
+  },
+  {
+    "id": "mattress",
+    "name": "Materac do łóżeczka",
+    "model": "",
+    "category": "Sen",
+    "priority": "Na start",
+    "url": "",
+    "description": "Twardy, płaski i dobrze dopasowany do łóżeczka. Dla MYLLRA szukamy 60 × 120 cm; bez poduszki i ochraniaczy.",
+    "features": [],
+    "questions": [
+      "Czy rozmiar jest dokładnie dopasowany i nie pozostawia szczelin?"
+    ],
+    "notes": "",
+    "cents": 25000,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "estimate",
+    "priceUrl": "https://www.ikea.com/pl/pl/cat/materace-do-lozeczek-dla-niemowlat-45855/",
+    "checked": "2026-10-04",
+    "availability": "Szacunek do budżetu: 250 zł za materac 60 × 120 cm. Dla porównania, IKEA KRUMMELUR kosztuje 159 zł, a JÄTTETRÖTT 299 zł bez rabatu klubowego. Model pozostaje do wyboru; to nie cena wybranego produktu.",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrls": [
+      "https://www.nhs.uk/best-start-in-life/pregnancy/preparing-for-labour-and-birth/what-to-buy-for-your-newborn-baby/",
+      "https://www.nhs.uk/best-start-in-life/baby/baby-basics/newborn-and-baby-sleeping-advice-for-parents/safe-sleep-advice-for-babies/"
+    ],
+    "original": false,
+    "archived": false
+  },
+  {
+    "id": "sheets",
+    "name": "Prześcieradła z gumką",
+    "model": "",
+    "category": "Sen",
+    "priority": "Na start",
+    "url": "",
+    "description": "Zapas dopasowanych prześcieradeł 60 × 120 cm. Liczba w polu ilość oznacza sztuki.",
+    "features": [],
+    "questions": [],
+    "notes": "",
+    "cents": 3000,
+    "quantity": 4,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "estimate",
+    "priceUrl": "https://www.ikea.com/pl/pl/cat/seria-len-62427/",
+    "checked": "2026-10-04",
+    "availability": "Szacunek: 30 zł za sztukę, czyli 120 zł za 4 prześcieradła 60 × 120 cm. Punktem odniesienia są prześcieradła IKEA LEN za 24,99 zł/szt. lub 69,99 zł za zestaw dwóch muślinowych. Konkretny model pozostaje do wyboru.",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrls": [
+      "https://www.nhs.uk/best-start-in-life/pregnancy/preparing-for-labour-and-birth/what-to-buy-for-your-newborn-baby/"
+    ],
+    "original": false,
+    "archived": false
+  },
+  {
+    "id": "protector",
+    "name": "Ochrona materaca",
+    "model": "",
+    "category": "Sen",
+    "priority": "Na start",
+    "url": "",
+    "description": "Dopasowany wodoodporny ochraniacz, bez grubego miękkiego podkładu; sprawdź zgodność z materacem.",
+    "features": [],
+    "questions": [],
+    "notes": "",
+    "cents": 5000,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "estimate",
+    "priceUrl": "https://www.ikea.com/pl/pl/p/lenast-ochraniacz-na-materac-bialy-70373100/",
+    "checked": "2026-10-04",
+    "availability": "Szacunek do budżetu: 50 zł za wodoodporny ochraniacz 60 × 120 cm. Przykładowy IKEA LENAST kosztuje 39,99 zł. Link służy jako punkt odniesienia cenowego; ochraniacz nie został jeszcze wybrany.",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrls": [
+      "https://www.nhs.uk/best-start-in-life/pregnancy/preparing-for-labour-and-birth/what-to-buy-for-your-newborn-baby/"
+    ],
+    "original": false,
+    "archived": false
+  },
+  {
+    "id": "sleepbags",
+    "name": "Śpiworki do snu",
+    "model": "",
+    "category": "Sen",
+    "priority": "Na start",
+    "url": "",
+    "description": "Dobrze dopasowane do ramion i wzrostu; grubość wybierz według temperatury i instrukcji producenta.",
+    "features": [],
+    "questions": [],
+    "notes": "",
+    "cents": 18000,
+    "quantity": 2,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "estimate",
+    "priceUrl": "https://bellochi.pl/dla-niemowlat/spiworki-do-spania/spiworki-bawelniane/",
+    "checked": "2026-10-04",
+    "availability": "Szacunek: 180 zł za sztukę, czyli 360 zł za 2 śpiworki. Dla porównania, bawełniane śpiworki Bellochi kosztują około 148-167 zł. Rozmiar, grubość i model pozostają do wyboru; cena nie oznacza rekomendacji konkretnego śpiworka.",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrls": [
+      "https://www.nhs.uk/best-start-in-life/baby/baby-basics/newborn-and-baby-sleeping-advice-for-parents/safe-sleep-advice-for-babies/"
+    ],
+    "original": false,
+    "archived": false
+  },
+  {
+    "id": "nappies",
+    "name": "Pieluchy na start",
+    "model": "Dada Extra Care · rozmiar 1 · 2-5 kg · 26 szt.",
+    "category": "Przewijanie",
+    "priority": "Na start",
+    "url": "https://www.hebe.pl/dada-pieluchy-dla-dzieci-rozm.-1-2-5-kg-26-szt.-1-opak.-000000000000434583.html",
+    "description": "Jednorazowe pieluchy Dada Extra Care, rozmiar 1 dla wagi 2-5 kg. Na liście jedno opakowanie 26 sztuk, do sprawdzenia rozmiaru na start.",
+    "features": [
+      "Technologia Climaflex; bez dodatku substancji zapachowych według producenta.",
+      "Cena i ilość odnoszą się do opakowań po 26 sztuk."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 1499,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://www.hebe.pl/dw/image/v2/BDDS_PRD/on/demandware.static/-/Sites-PL_Master_Catalog/default/dwb28b41b8/images/hi-res/434583_pieluchy_p.png?sw=600&sh=600&sm=fit",
+    "imageAlt": "Pieluchy Dada Extra Care rozmiar 1, opakowanie 26 sztuk.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "wipes",
+    "name": "Mokre chusteczki",
+    "model": "WaterWipes BIO · 4 × 60 szt.",
+    "category": "Przewijanie",
+    "priority": "Na start",
+    "url": "https://www.smyk.com/pl/pl/p/waterwipes-bio-chusteczki-nawilzane-4x60-szt-i7059453",
+    "description": "Chusteczki nawilżane WaterWipes BIO. Jedna jednostka zakupu obejmuje cztery paczki po 60 sztuk, łącznie 240 chusteczek.",
+    "features": [
+      "Cena 39,99 zł dotyczy całego pakietu 4 × 60 sztuk.",
+      "Instrukcja producenta zabrania przenoszenia chusteczek do innego pojemnika."
+    ],
+    "questions": [
+      "Czy można używać fabrycznego opakowania w Neno Calor zgodnie z instrukcjami obu produktów?"
+    ],
+    "notes": "",
+    "cents": 3999,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://img.smyk.com/pl/pl/760x/https://bin.smyk.com/pl/pl/media/product/1600/1/waterwipes-bio-chusteczki-nawilzane-4-60-szt-7059453.jpg",
+    "imageAlt": "Chusteczki WaterWipes BIO, zestaw czterech opakowań po 60 sztuk.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "cream",
+    "name": "Maść pod pieluszkę",
+    "model": "Linomag · 200 mg/g · maść · 100 g",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/linomag-200-mg-g-masc-100-g-0062212",
+    "description": "Wybrana maść Linomag 200 mg/g w opakowaniu 100 g. Jest produktem leczniczym OTC; dobór i sposób użycia do uzgodnienia z położną lub farmaceutą, zgodnie z ulotką.",
+    "features": [
+      "Maść, opakowanie 100 g.",
+      "To Linomag 200 mg/g, nie kosmetyk z innej serii Linomag."
+    ],
+    "questions": [
+      "Czy jest odpowiednia dla naszego dziecka i kiedy jej używać?"
+    ],
+    "notes": "",
+    "cents": 3419,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0062212/min6/linomag-200-mg-g-masc-100-g-16820636571.png",
+    "imageAlt": "Linomag 200 mg/g maść, opakowanie 100 g.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "towels",
+    "name": "Ręczniki kąpielowe",
+    "model": "Muminky · biały wafel · kapturek króliczek",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://muminky.pl/pl/p/Recznik-z-Kapturkiem-Kroliczek-Bialy-Wafel/1129",
+    "description": "Biały ręcznik wafelkowy z kapturkiem. Na liście dwie sztuki; cena od 89,42 zł za sztukę dla mniejszego wariantu. Większy wariant kosztuje 109,99 zł.",
+    "features": [
+      "Warianty 75 × 75 cm i 100 × 100 cm.",
+      "Kapturek z uszami króliczka."
+    ],
+    "questions": [
+      "Który rozmiar ręcznika wybieramy?"
+    ],
+    "notes": "",
+    "cents": 8942,
+    "quantity": 2,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "from",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://muminky.pl/environment/cache/images/productGfx_3880_500_500/recznik-bialy-z-kapturkiem-wafelkowy.jpg",
+    "imageAlt": "Biały ręcznik Muminky z tkaniny wafelkowej i kapturkiem.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw",
+      "https://muminky.pl/pl/p/Recznik-Wafel-z-Kapturkiem-Bialy/1129"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "grooming",
+    "name": "Nożyczki do paznokci",
+    "model": "BabyOno · bezpieczne nożyczki",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/babyono-bezpieczne-nozyczki-do-paznokci-dla-niemowlat-i-dzieci-1-sztuka-0022078",
+    "description": "Nożyczki BabyOno do paznokci niemowląt i dzieci. Uzupełniają istniejącą pozycję akcesoriów do paznokci.",
+    "features": [
+      "Zaokrąglone końcówki; jedna sztuka."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 929,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0022078/babyono-bezpieczne-nozyczki-do-paznokci-dla-niemowlat-i-dzieci-1-sztuka-17116112461.png",
+    "imageAlt": "Bezpieczne nożyczki BabyOno do paznokci niemowląt.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "sleepsuits",
+    "name": "Pajacyki · rozmiar 50",
+    "model": "NEXT · 5 PACK · pink · rozmiar 50",
+    "category": "Ubranka i tekstylia",
+    "priority": "Na start",
+    "url": "https://www.zalando.pl/next-5-pack-spiworek-dla-dzieci-pink-nx324d0gu-j11.html",
+    "description": "Wybrany zestaw pięciu pajacyków NEXT w rozmiarze 50. Na start jeden zestaw, czyli pięć sztuk. Rozmiar 50 jest Twoim wyborem; dopasowanie zależy od wzrostu dziecka.",
+    "features": [
+      "Pięć pajacyków w zestawie; cena za cały zestaw.",
+      "Długie rękawy, zakryte stopy i zapięcia na napy."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 12100,
+    "quantity": 1,
+    "purchaseUnit": "zest.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "Cena zestawu w ofercie: 121 zł. Przed zakupem wybierz rozmiar 50 i sprawdź jego dostępność; link z filmu zawierał rozmiar 62, który usunęliśmy.",
+    "image": "https://img01.ztat.net/article/spp-media-p1/bd21854f8033376b8e6708442d48fd8a/8dd1913bf336478ab7577616c3b73d46.jpg?imwidth=800&filter=packshot",
+    "imageAlt": "Zestaw różowych i białych pajacyków NEXT 5 PACK.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "muslins",
+    "name": "Pieluszki muślinowe",
+    "model": "BIBS · Sand · 70 × 70 cm · zestaw 2 szt.",
+    "category": "Ubranka i tekstylia",
+    "priority": "Na start",
+    "url": "https://bimbus.com.pl/sklep/pieluszki-muslinowe-2-sztuki-100-organic-cotton-sand-70-cm-x-70-cm-bibs/",
+    "description": "Dwie pieluszki 70 × 70 cm z organicznej bawełny w kolorze Sand. Zachowujemy wcześniejszy zapas sześciu sztuk, czyli trzy zestawy; cena 89 zł za zestaw.",
+    "features": [
+      "100% organicznej bawełny.",
+      "Dwie sztuki w zestawie; ilość na liście oznacza zestawy."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 8900,
+    "quantity": 3,
+    "purchaseUnit": "zest.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://bimbus.com.pl/wp-content/uploads/2024/02/1-17.jpeg",
+    "imageAlt": "Zestaw dwóch pieluszek muślinowych BIBS w kolorze Sand.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "postpartum-underwear",
+    "name": "Majtki poporodowe",
+    "model": "Horizon · siatkowe · 38-40 · 2 szt.",
+    "category": "Dla mamy",
+    "priority": "Na start",
+    "url": "https://gemini.pl/horizon-majtki-siatkowe-poporodowe-rozmiar-38-40-2-sztuki-0014558",
+    "description": "Wielorazowe, siatkowe majtki do podtrzymywania podkładów poporodowych. Rozmiar 38-40 pochodzi z linku w filmie; dopasowanie dla mamy do sprawdzenia.",
+    "features": [
+      "Dwie sztuki w opakowaniu.",
+      "Oddychająca siateczka; wielorazowe."
+    ],
+    "questions": [
+      "Jaki rozmiar będzie wygodny po porodzie?"
+    ],
+    "notes": "",
+    "cents": 1269,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0014558/min6/majtki-poporodowe-wielorazowe-siateczkowe-rozmiar-38-40-2-sztuki-15925058381.jpg",
+    "imageAlt": "Opakowanie dwóch siatkowych majtek poporodowych Horizon, rozmiar 38-40.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "postpartum-pads",
+    "name": "Podkłady poporodowe",
+    "model": "Bella Mamma · 10 szt.",
+    "category": "Dla mamy",
+    "priority": "Na start",
+    "url": "https://gemini.pl/bella-mamma-podklady-higieniczne-poporodowe-10-sztuk-0001312",
+    "description": "Jednorazowe podkłady do bielizny na czas połogu. To wkłady dla mamy, osobna pozycja od podkładów rozkładanych na łóżku.",
+    "features": [
+      "Dziesięć sztuk; chłonny wkład celulozowy i pokrycie z włókniny.",
+      "Do stosowania z bielizną poporodową."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 629,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0001312/min6/bella-mamma-podklady-higieniczne-poporodowe-10-sztuk-16907880641.png",
+    "imageAlt": "Podkłady poporodowe Bella Mamma, opakowanie 10 sztuk.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "bed-pads",
+    "name": "Podkłady na łóżko",
+    "model": "BabyOno · 60 × 90 cm · 10 + 2 gratis",
+    "category": "Dla mamy",
+    "priority": "Na start",
+    "url": "https://gemini.pl/babyono-podklady-higieniczne-do-przewijania-60-cm-x-90-cm-10-sztuk-2-sztuki-gratis-0122858",
+    "description": "Jednorazowe, chłonne podkłady zabezpieczające łóżko w połogu; mogą też służyć przy przewijaniu. Dodatkowa ochrona jednorazowa, niezależna od materaca w przewijaku Maydolly.",
+    "features": [
+      "Rozmiar 60 × 90 cm; dwanaście podkładów w opakowaniu.",
+      "Chłonny wkład, nieprzemakalny spód i paski samoprzylepne."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 1729,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "Link z filmu do opakowania 10 sztuk prowadzi teraz do kategorii. Zdjęcie i cena dotyczą aktualnej oferty 10 + 2 gratis, tej samej marki i rozmiaru.",
+    "image": "https://static.gemini.pl/assets/produkty/0122858/min6/babyono-podklady-higieniczne-do-przewijania-60-cm-x-90-cm-10-sztuk-2-sztuki-gratis-17774720101.jpg",
+    "imageAlt": "Podkłady higieniczne BabyOno 60 × 90 cm, opakowanie 10 + 2 gratis.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4",
+      "https://gemini.pl/babyono-podklady-higieniczne-do-przewijania-60-cm-x-90-cm-10-sztuk-0060520"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "nursing",
+    "name": "Wkładki laktacyjne",
+    "model": "Bella Mamma · z przylepcem · 60 szt.",
+    "category": "Dla mamy",
+    "priority": "Na start",
+    "url": "https://gemini.pl/bella-mamma-wkladki-laktacyjne-z-przylepcem-60-sztuk-0044211",
+    "description": "Jednorazowe wkładki do ochrony bielizny przed wyciekającym pokarmem. Cena za jedno opakowanie 60 sztuk.",
+    "features": [
+      "Chłonny wkład, anatomiczny kształt i pasek klejący."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 1469,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0044211/min6/bella-mamma-wkladki-laktacyjne-z-przylepcem-60-sztuk-16908765631.jpg",
+    "imageAlt": "Wkładki laktacyjne Bella Mamma z przylepcem, 60 sztuk.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "ginexid",
+    "name": "Pianka do higieny intymnej",
+    "model": "Ginexid · 150 ml",
+    "category": "Dla mamy",
+    "priority": "Na start",
+    "url": "https://gemini.pl/ginexid-ginekologiczna-pianka-oczyszczajaca-do-higieny-intymnej-150-ml-0036183",
+    "description": "Pianka oczyszczająca do zewnętrznej higieny intymnej, do spłukiwania. Wybrany produkt z filmu do omówienia z położną na czas połogu.",
+    "features": [
+      "Opakowanie 150 ml; kosmetyk.",
+      "W składzie m.in. chlorheksydyna, kwas mlekowy, mentol i substancje zapachowe."
+    ],
+    "questions": [
+      "Czy ten produkt będzie odpowiedni do mojej pielęgnacji po porodzie?"
+    ],
+    "notes": "",
+    "cents": 3879,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0036183/min6/ginexid-ginekologiczna-pianka-oczyszczajaca-do-higieny-intymnej-150-ml-17135229631.jpg",
+    "imageAlt": "Pianka Ginexid do higieny intymnej, 150 ml.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "multi-mam",
+    "name": "Kompresy na brodawki",
+    "model": "Multi-Mam · 12 szt.",
+    "category": "Dla mamy",
+    "priority": "Na start",
+    "url": "https://gemini.pl/multi-mam-kompresy-do-pielegnacji-sutkow-matek-karmiacych-12-sztuk-9080721",
+    "description": "Jednorazowe kompresy nasączone żelem do pielęgnacji brodawek podczas karmienia. Jedno opakowanie zawiera dwanaście osobno pakowanych kompresów.",
+    "features": [
+      "Dwanaście kompresów w saszetkach.",
+      "Żel z kompleksem 2QR; stosowanie według instrukcji."
+    ],
+    "questions": [
+      "Czy w razie podrażnienia wybrać kompresy, lanolinę czy inną pielęgnację?"
+    ],
+    "notes": "",
+    "cents": 3849,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/9080721/min6/multi-mam-kompresy-do-pielegnacji-sutkow-matek-karmiacych-12-sztuk-17180226711.jpg",
+    "imageAlt": "Kompresy Multi-Mam do pielęgnacji brodawek, 12 sztuk.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "lanolin",
+    "name": "Lanolina",
+    "model": "Lansinoh HPA · 10 ml",
+    "category": "Dla mamy",
+    "priority": "Na start",
+    "url": "https://gemini.pl/lansinoh-lanolina-hpa-krem-na-brodawki-sutkowe-10-ml-0030204",
+    "description": "Oczyszczona lanolina HPA do pielęgnacji brodawek. Małe opakowanie 10 ml z linku w filmie, do wykorzystania zależnie od potrzeb.",
+    "features": [
+      "100% lanoliny HPA; opakowanie 10 ml."
+    ],
+    "questions": [
+      "Jaką pielęgnację dobrać, jeśli karmienie powoduje ból lub podrażnienie?"
+    ],
+    "notes": "",
+    "cents": 3269,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0030204/min6/lansinoh-lanolina-hpa-krem-na-brodawki-sutkowe-10-ml-17464243601.png",
+    "imageAlt": "Lanolina Lansinoh HPA do pielęgnacji brodawek, 10 ml.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=9MoaTHXSDL4"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "thin-cap",
+    "name": "Czapeczki cienkie",
+    "model": "Newbie / Kappahl · czapka z uszami · offwhite",
+    "category": "Ubranka i tekstylia",
+    "priority": "Na start",
+    "url": "https://www.kappahl.com/pl-pl/niemowle/ubrania-dla-noworodka/812198",
+    "description": "Potrzebujemy dwóch cienkich czapeczek Newbie z uszami. Cena 34,99 zł za sztukę, razem 69,98 zł. Rozmiar dopasuj do obwodu główki i pogody.",
+    "features": [
+      "Kolor offwhite; model niemowlęcy Newbie.",
+      "Dwie sztuki na start."
+    ],
+    "questions": [
+      "Jaki rozmiar wybrać na start?"
+    ],
+    "notes": "",
+    "cents": 3499,
+    "quantity": 2,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.kappahl.com/globalassets/productimages/812198_f.jpg?ref=ECBA0D1229",
+    "imageAlt": "Cienka czapeczka Newbie z uszami w kolorze offwhite.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw",
+      "https://www.kappahl.com/pl-PL/dziecko/newbie-accessoarer-d628558c/mossor--hattar/czapka-dla-niemowlat/812198/"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "burrito",
+    "name": "Otulacz",
+    "model": "The Slings · Baby Burrito · Biscuit",
+    "category": "Ubranka i tekstylia",
+    "priority": "Na start",
+    "url": "https://theslings.pl/sklep/wyprawka/otulacze-czapeczki/otulacz-burrito-baby-biscuit/",
+    "description": "Otulacz Baby Burrito Biscuit wskazany w filmie. Zachowujemy ten konkretny model i kolor, ale jego stara oferta nie działa.",
+    "features": [],
+    "questions": [
+      "Czy otulanie będzie odpowiednie dla naszego dziecka i jak robić je bezpiecznie?"
+    ],
+    "notes": "",
+    "cents": 16000,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "estimate",
+    "priceUrl": "https://theslings.pl/pages/tutorial-otulacze",
+    "checked": "2026-10-04",
+    "availability": "Szacunek do budżetu: 160 zł na podstawie ceny 159 zł za inne gładkie kolory Baby Burrito w aktualnym katalogu The Slings. Oferta Biscuit nadal jest nieaktywna; nie potwierdzono ceny ani zdjęcia tego koloru. Zachowujemy Twój wybrany wariant.",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "cocoon",
+    "name": "Kokon",
+    "model": "Biały · bawełna / wafel · XL · oferta z filmu",
+    "category": "Sen",
+    "priority": "Na start",
+    "url": "https://allegro.pl/oferta/kokon-gniazdo-niemowlece-falbanka-bawelna-wafel-xl-9580707964",
+    "description": "Biały kokon z falbanką z pierwszego linku w filmie; drugi link zachowany jako alternatywa. To jedna pozycja w budżecie. Kokon nie jest miejscem do snu niemowlęcia; ewentualne użycie wyłącznie podczas czuwania pod bezpośrednim nadzorem.",
+    "features": [],
+    "questions": [
+      "Czy kokon będzie nam potrzebny do czuwania, skoro do snu mamy łóżeczko?"
+    ],
+    "notes": "",
+    "cents": 25000,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "estimate",
+    "priceUrl": "https://muminky.pl/kokony-niemowlece/1/default/2",
+    "checked": "2026-10-04",
+    "availability": "Szacunek do budżetu: 250 zł na podstawie podobnych kokonów; w katalogu Muminky są modele za około 299 zł. Biała oferta XL z filmu nadal jest nieaktywna, a jej cena i zdjęcie nie zostały potwierdzone. To orientacyjny koszt, bez zmiany wybranego modelu.",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw",
+      "https://allegro.pl/oferta/kokon-niemowlecy-delikatny-otulacz-kojec-bawelna-9564689047",
+      "https://www.nhs.uk/best-start-in-life/baby/baby-basics/newborn-and-baby-sleeping-advice-for-parents/safe-sleep-advice-for-babies/"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "blanket",
+    "name": "Kocyki",
+    "model": "ColorStories · Soft Bamboo · beżowy",
+    "category": "Ubranka i tekstylia",
+    "priority": "Na start",
+    "url": "https://colorstories.pl/produkt/kocyk-s-soft-bamboo-bezowy/",
+    "description": "Potrzebujemy dwóch beżowych kocyków Soft Bamboo z bawełny i przędzy bambusowej, o żakardowym splocie. Cena referencyjna 135,65 zł za sztukę, razem 271,30 zł.",
+    "features": [
+      "Kocyk do okrywania, m.in. podczas spacerów.",
+      "Model Soft Bamboo; nie zastępujemy go nowszym Fema."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 13565,
+    "quantity": 2,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "reference",
+    "priceUrl": "https://www.skapiec.pl/site/cat/2680/comp/922277639",
+    "checked": "2026-10-04",
+    "availability": "Stara oferta producenta nie działa. Porównywarka nie ma aktywnych ofert; 135,65 zł to zapisana cena referencyjna, a nie aktualna cena zakupu.",
+    "image": "https://ocdn.eu/photo-offers-prod-transforms/1/02Ok9k3b2ZmZXJzLzIzMjM1ODg0NjJfODRiZDhhOWU0OTIzNWFhOGQzNDQ2NWQ4NDNhMDgwYTYud2VicJGTCaZjMGEzZDkG3gABoTAF/colorstories-soft-bamboo-kocyk-bambusowy-bezowy.webp",
+    "imageAlt": "Beżowy kocyk ColorStories Soft Bamboo.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw",
+      "https://www.skapiec.pl/site/cat/2680/comp/922277639"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "cradle-brush",
+    "name": "Szczotka do ciemieniuchy",
+    "model": "Lullalove · zestaw dwóch szczotek",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://www.ceneo.pl/106936114",
+    "description": "Dwie szczotki Lullalove o różnej miękkości włosia. Cena od dotyczy całego zestawu w porównywarce; wybierz ofertę sklepu przed zakupem.",
+    "features": [
+      "Dwie szczotki w zestawie."
+    ],
+    "questions": [
+      "Jak pielęgnować ciemieniuchę i której szczotki używać?"
+    ],
+    "notes": "",
+    "cents": 5140,
+    "quantity": 1,
+    "purchaseUnit": "zest.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "from",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://image.ceneostatic.pl/data/products/106936114/i-lullalove-zestaw-dwoch-szczotek-dla-niemowlat.jpg",
+    "imageAlt": "Zestaw dwóch szczotek Lullalove dla niemowląt.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "paraffin",
+    "name": "Parafina ciekła",
+    "model": "Parafina ciekła · 100 g",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/parafina-ciekla-100-g-9035725",
+    "description": "Parafina ciekła 100 g z linku w filmie, jako wybór do omówienia w pielęgnacji dziecka.",
+    "features": [],
+    "questions": [
+      "Czy potrzebujemy parafiny w pielęgnacji i w jakim celu?"
+    ],
+    "notes": "",
+    "cents": 769,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/9035725/parafina-ciekla-100-g-16911322271.png",
+    "imageAlt": "Parafina ciekła, butelka 100 g.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "cotton-buds",
+    "name": "Patyczki higieniczne",
+    "model": "Kindii Pure · biodegradowalne · 60 szt.",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/kindii-pure-patyczki-higieniczne-dla-niemowlat-i-dzieci-bawelniane-biodegradowalne-60-sztuk-0092144",
+    "description": "Bawełniane patyczki higieniczne Kindii Pure dla niemowląt i dzieci. Cena za opakowanie 60 sztuk.",
+    "features": [
+      "Bawełniane końcówki; biodegradowalne."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 591,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0092144/kindii-pure-patyczki-higieniczne-dla-niemowlat-i-dzieci-bawelniane-biodegradowalne-60-sztuk-16878624271.png",
+    "imageAlt": "Patyczki higieniczne Kindii Pure, 60 sztuk.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "nappy-powder",
+    "name": "Zasypka pod pieluchę",
+    "model": "Nivea Baby · ochronny puder łagodzący · 100 g",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/nivea-baby-ochronny-puder-lagodzacy-dla-dzieci-od-urodzenia-100-g-0074202",
+    "description": "Puder Nivea Baby 100 g wskazany w filmie. Produkt do konsultacji, zależnie od potrzeb pielęgnacji.",
+    "features": [],
+    "questions": [
+      "Czy zasypka jest potrzebna i odpowiednia w naszej pielęgnacji?"
+    ],
+    "notes": "",
+    "cents": 1699,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "reference",
+    "priceUrl": "https://www.ceneo.pl/73644790",
+    "checked": "2026-10-04",
+    "availability": "Brak aktywnej oferty wskazanego produktu. 16,99 zł to ostatnia cena zapisana w Ceneo, nie potwierdzona cena zakupu.",
+    "image": "https://image.ceneostatic.pl/data/products/73644790/i-nivea-baby-ochronny-puder-lagodzacy-100g.jpg",
+    "imageAlt": "Ochronny puder łagodzący Nivea Baby 100 g.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw",
+      "https://www.ceneo.pl/73644790"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "derma-cream",
+    "name": "Krem pielęgnacyjny",
+    "model": "Derma Eco Baby · 100 ml",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/derma-eco-baby-krem-pielegnacyjny-100-ml-0057993",
+    "description": "Krem do pielęgnacji skóry Derma Eco Baby. Osobna pozycja od Linomagu i kremu na wiatr i mróz.",
+    "features": [
+      "Tubka 100 ml."
+    ],
+    "questions": [
+      "Czy potrzebujemy dodatkowego kremu do codziennej pielęgnacji?"
+    ],
+    "notes": "",
+    "cents": 2549,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0057993/derma-eco-baby-krem-pielegnacyjny-100-ml-17853054851.jpg",
+    "imageAlt": "Krem pielęgnacyjny Derma Eco Baby 100 ml.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw",
+      "https://gemini.pl/derma-eco-baby-krem-pielegnacyjny-od-1-dnia-zycia-100-ml-0057993"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "winter-cream",
+    "name": "Krem na wiatr i mróz",
+    "model": "Emolium Dermocare · SPF 20 · 75 ml",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://www.superpharm.pl/emolium-krem-ochronny-na-wiatr-i-mroz-spf20-93627",
+    "description": "Krem ochronny Emolium Dermocare na zimowe spacery. Cena i zdjęcie z aktualnej oferty tego samego produktu w Super-Pharm.",
+    "features": [
+      "Pojemność 75 ml; SPF 20."
+    ],
+    "questions": [
+      "Czy ten krem i konkretne opakowanie będą odpowiednie dla noworodka?"
+    ],
+    "notes": "",
+    "cents": 3149,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "Stary link Gemini prowadzi do kategorii. W opisie aktualnej oferty są sprzeczne oznaczenia wieku: od 1. dnia i od 1. miesiąca; sprawdź etykietę kupowanego opakowania.",
+    "image": "https://media.superpharm.eu/media/catalog/product/cache/882787cf042be8783100abacb95dbcaf/9/3/9349431_T1.jpg",
+    "imageAlt": "Krem Emolium Dermocare na wiatr i mróz SPF 20, 75 ml.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw",
+      "https://gemini.pl/emolium-dermocare-krem-na-wiatr-i-mroz-od-1-dnia-zycia-spf20-75-ml-0081454"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "saline",
+    "name": "Sól fizjologiczna",
+    "model": "Katarek · NaCl 0,9% · 10 × 5 ml",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://katarek.pl/produkt/katarek-fizjologiczny-roztwor-soli/",
+    "description": "Fizjologiczny roztwór soli w dziesięciu ampułkach po 5 ml. Aktualna oferta producenta dla opakowania z filmu.",
+    "features": [
+      "NaCl 0,9%; dziesięć ampułek po 5 ml."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 1050,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://katarek.pl/wp-content/uploads/2025/07/Projekt-bez-nazwy-45.png",
+    "imageAlt": "Katarek, fizjologiczny roztwór soli NaCl 0,9%, opakowanie ampułek.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw",
+      "https://gemini.pl/katarek-fizjologiczny-roztwor-soli-nacl-0-9-5ml-x-10-ampulek-0082078"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "sterile-compresses",
+    "name": "Gaziki jałowe",
+    "model": "Medicomp · 7,5 × 7,5 cm · 50 szt.",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/medicomp-kompresy-jalowe-wlokninowe-4-warstwowe-30-g-m2-7-5-cm-x-7-5-cm-50-sztuk-0016586",
+    "description": "Jałowe, czterowarstwowe kompresy włókninowe Medicomp 7,5 × 7,5 cm. To gaziki do pielęgnacji, osobne od kompresów Multi-Mam dla mamy.",
+    "features": [
+      "Pięćdziesiąt sztuk w opakowaniu."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 1129,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0016586/medicomp-kompresy-jalowe-wlokninowe-4-warstwowe-30-g-m2-7-5-cm-x-7-5-cm-50-sztuk-17557650971.png",
+    "imageAlt": "Jałowe kompresy włókninowe Medicomp, 50 sztuk.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "vitamin-d",
+    "name": "Witamina D",
+    "model": "Vigantol · 20 000 IU/ml · 10 ml",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/vigantol-20-000iu-krople-doustne-roztwor-10-ml-0002370",
+    "description": "Vigantol, lek z witaminą D w kroplach. Stężenie na opakowaniu nie jest dawką dla dziecka; sposób podawania ustal z lekarzem lub położną.",
+    "features": [],
+    "questions": [
+      "Jaką dawkę witaminy D zalecono naszemu dziecku?"
+    ],
+    "notes": "",
+    "cents": 1819,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0002370/vigantol-20-000iu-krople-doustne-roztwor-10-ml-16878486641.jpg",
+    "imageAlt": "Vigantol, krople doustne, butelka 10 ml.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "vitamin-c",
+    "name": "Witamina C",
+    "model": "Cebion · 100 mg/ml · 30 ml",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/cebion-100-mg-ml-krople-doustne-dla-dzieci-od-28-dnia-zycia-30-ml-0000387",
+    "description": "Cebion, lek z witaminą C w kroplach. Oferta ma oznaczenie od 28. dnia życia; zakup i podawanie zależą od wskazania lekarza.",
+    "features": [],
+    "questions": [
+      "Czy lekarz zalecił witaminę C i ten konkretny preparat?"
+    ],
+    "notes": "",
+    "cents": 1919,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0000387/cebion-100-mg-ml-krople-doustne-dla-dzieci-od-28-dnia-zycia-30-ml-17600743061.jpg",
+    "imageAlt": "Cebion, krople doustne z witaminą C, 30 ml.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "paracetamol",
+    "name": "Lek przeciwgorączkowy",
+    "model": "Pedicetamol · 100 mg/ml · 30 ml",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/pedicetamol-100-mg-ml-roztwor-doustny-dla-dzieci-i-niemowlat-od-urodzenia-30-ml-0015652",
+    "description": "Pedicetamol, lek z paracetamolem w roztworze doustnym. Stężenie 100 mg/ml nie oznacza dawki; użycie u niemowlęcia i dawkowanie omów z lekarzem.",
+    "features": [],
+    "questions": [
+      "Jaki plan postępowania przy gorączce ustalić z pediatrą?"
+    ],
+    "notes": "",
+    "cents": 1599,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0015652/pedicetamol-100-mg-ml-roztwor-doustny-dla-dzieci-i-niemowlat-od-urodzenia-30-ml-17242350781.png",
+    "imageAlt": "Pedicetamol, roztwór doustny z paracetamolem, 30 ml.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "nasal-spray",
+    "name": "Spray do nosa",
+    "model": "Disnemar Baby · izotoniczny roztwór soli · 25 ml",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Na start",
+    "url": "https://gemini.pl/disnemar-baby-izotoniczny-roztwor-soli-mineralnych-do-nosa-25-ml-0006345",
+    "description": "Disnemar Baby to izotoniczny roztwór soli mineralnych do nosa. W filmie nazwany wodą morską; tutaj zachowujemy właściwy opis produktu.",
+    "features": [
+      "Spray 25 ml."
+    ],
+    "questions": [
+      "Czy potrzebujemy sprayu obok soli w ampułkach?"
+    ],
+    "notes": "",
+    "cents": 2139,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://static.gemini.pl/assets/produkty/0006345/disnemar-baby-spray-izotoniczny-do-nosa-od-0-do-4-lat-25-ml-17744472791.png",
+    "imageAlt": "Spray do nosa Disnemar Baby 25 ml.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw",
+      "https://gemini.pl/disnemar-baby-spray-izotoniczny-do-nosa-od-0-do-4-lat-25-ml-0006345"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "cotton-pads",
+    "name": "Waciki / płatki bawełniane",
+    "model": "Kindii Pure · 60 szt.",
+    "category": "Przewijanie",
+    "priority": "Na start",
+    "url": "https://www.ceneo.pl/3386247",
+    "description": "Duże płatki bawełniane Kindii Pure, opakowanie 60 sztuk. Dodane osobno; dotychczasowe chusteczki WaterWipes pozostają bez zmiany.",
+    "features": [
+      "Cena od w porównywarce za opakowanie."
+    ],
+    "questions": [],
+    "notes": "",
+    "cents": 499,
+    "quantity": 1,
+    "purchaseUnit": "opak.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "from",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "",
+    "image": "https://image.ceneostatic.pl/data/products/3386247/i-kindii-pure-platki-bawelniane-kosmetyczne-dla-niemowlat-60szt.jpg",
+    "imageAlt": "Płatki bawełniane Kindii Pure dla niemowląt, 60 sztuk.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "id": "cherry-warmer",
+    "name": "Termofor z pestek wiśni",
+    "model": "Cherrypad · Minky Rosas · Nature-solution",
+    "category": "Kąpiel i pielęgnacja",
+    "priority": "Opcjonalne",
+    "url": "https://www.dobreliski.pl/pl/p/Termofor-Cherrypad-Minky-Rosas-Nature-solution/20267",
+    "description": "Termofor Cherrypad Minky Rosas wypełniony pestkami wiśni. Cena widoczna na stronie to 55 zł, ale produkt jest obecnie niedostępny.",
+    "features": [],
+    "questions": [
+      "Czy będzie potrzebny i jak używać go bez ryzyka przegrzania skóry?"
+    ],
+    "notes": "",
+    "cents": 5500,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "reference",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "Niedostępny w podanej ofercie; 55 zł zapisane jako cena referencyjna.",
+    "image": "https://www.dobreliski.pl/environment/cache/images/productGfx_31101_500_500/Termofor-Cherrypad--Minky-Rosas--Nature-solution.webp",
+    "imageAlt": "Termofor z pestek wiśni Cherrypad Minky Rosas.",
+    "sourceUrls": [
+      "https://www.youtube.com/watch?v=ED_HTOhKrNw"
+    ],
+    "original": true,
+    "archived": false
+  },
+  {
+    "model": "Lansinoh NaturalWave · przezroczysto-fioletowa",
+    "url": "https://www.mediaexpert.pl/agd-male/dla-dziecka/butelki-dla-dzieci/butelka-lansinoh-naturalwave-teat-160-ml",
+    "description": "Butelka Lansinoh 160 ml ze smoczkiem NaturalWave o wolnym przepływie i systemem odpowietrzania AVS. Jedna sztuka na start, obok wybranej wcześniej Neno Mio.",
+    "features": [
+      "Pojemność 160 ml; butelka z tworzywa i silikonowy smoczek.",
+      "Smoczek o wolnym przepływie i system odpowietrzania AVS.",
+      "W komplecie butelka, smoczek, nakrętka i dysk uszczelniający."
+    ],
+    "questions": [
+      "Oferta wskazuje wiek 1 m+. Czy smoczek z zestawu będzie odpowiedni od pierwszych dni, czy potrzebny będzie XS?",
+      "Jak czyścić i sterylizować konkretny wariant? Sprawdźmy instrukcję, także zgodność z myjką Momcozy."
+    ],
+    "notes": "",
+    "cents": 2799,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": true,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "27,99 zł za jedną butelkę w Media Expert. Dobór przepływu smoczka do noworodka pozostaje do sprawdzenia.",
+    "image": "https://lansinoh.pl/cdn/shop/files/butelka_160_grande.png?v=1775650192",
+    "imageAlt": "Butelka Lansinoh NaturalWave 160 ml z fioletową nakrętką i silikonowym smoczkiem.",
+    "sourceUrls": [
+      "https://lansinoh.pl/products/butelka-do-karmienia-ze-smoczkiem-o-wolnym-przeplywie-natural-wave%C2%AE-160-ml?variant=51060783317328"
+    ],
+    "original": true,
+    "archived": false,
+    "id": "lansinoh-bottle",
+    "name": "Butelka do karmienia · 160 ml",
+    "category": "Karmienie",
+    "priority": "Na start"
+  },
+  {
+    "model": "Neno Vita · 5w1 · NEN-MAM-UR003",
+    "url": "https://www.mediaexpert.pl/agd-male/dla-dziecka/podgrzewacze-do-butelek/podgrzewacz-i-sterylizator-neno-vita-nen-mam-ur003",
+    "description": "Podgrzewa mleko i posiłki, rozmraża, utrzymuje temperaturę oraz sterylizuje. Cena 149,99 zł z kodem R2809-121026, ważnym do 12.10.2026.",
+    "features": [
+      "Pięć trybów: podgrzewanie mleka, podgrzewanie posiłków, rozmrażanie, utrzymywanie temperatury i sterylizacja.",
+      "Panel dotykowy, wyświetlacz i podświetlenie nocne.",
+      "Koszyczek do wyjmowania akcesoriów po sterylizacji.",
+      "Wymiary 23 × 18,3 × 21,5 cm; moc 500 W; zasilanie sieciowe."
+    ],
+    "questions": [
+      "Czy mieszczą się nasze butelki Lansinoh i Neno Mio?"
+    ],
+    "notes": "",
+    "cents": 14999,
+    "quantity": 1,
+    "purchaseUnit": "szt.",
+    "status": "planned",
+    "consult": false,
+    "priceKind": "shop",
+    "priceUrl": "",
+    "checked": "2026-10-04",
+    "availability": "149,99 zł z kodem R2809-121026 w Media Expert do 12.10.2026, godz. 23:59. Cena przed kodem: 249,99 zł. Do budżetu wliczamy wskazaną przez Justynę cenę z kodem.",
+    "image": "https://neno.pl/wp-content/uploads/2024/08/neno_vita_ps_01.jpg",
+    "imageAlt": "Biały podgrzewacz Neno Vita z przezroczystą pokrywą i panelem dotykowym.",
+    "sourceUrls": [
+      "https://neno.pl/produkt/neno-vita/"
+    ],
+    "original": true,
+    "archived": false,
+    "id": "neno-vita",
+    "name": "Podgrzewacz do butelek",
+    "category": "Karmienie",
+    "priority": "Na start"
+  }
+]
